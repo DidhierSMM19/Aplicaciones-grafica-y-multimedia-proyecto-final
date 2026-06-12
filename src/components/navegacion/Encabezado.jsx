@@ -148,12 +148,12 @@ const Encabezado = () => {
           <img
             alt=" "
             src={logo}
-            width="45"
-            height="45"
+            width="50"
+            height="50"
             className="d-inline-block me-2"
           />
           <strong>
-            <h4 className="mb-0">Discosa</h4>
+            <h4 className="mb-0">Tastee</h4>
           </strong>
         </Navbar.Brand>
 
